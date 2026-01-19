@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sazidur Rahman Mahin</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sazidmahin&label=Profile%20views&color=0e75b6&style=flat" alt="sazidmahin" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazidmahin&label=Profile%20views&color=0e75b6&style=flat" alt="sazidmahin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazidmahin" alt="sazidmahin" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazidmahin" alt="sazidmahin" /></a> </p> -->
 
 - 🔭 I’m currently working on **AI/ML & MLOps**
 
